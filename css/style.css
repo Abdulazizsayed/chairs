@@ -78,8 +78,8 @@ header .header-content{
 }
 
 header .header-content img{
-    flex: 1;
     max-width: 170px;
+    flex: 1;
 }
 
 header .header-content .navbar{
